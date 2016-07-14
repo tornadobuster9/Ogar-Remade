@@ -1,2 +1,3 @@
 # Ogar-Remade
-Look at the Read Me file inside the .zip for information
+A modified working version of Ogar
+> See the Read Me file in the .zip for further information
